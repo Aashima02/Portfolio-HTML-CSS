@@ -341,7 +341,13 @@ header {
 ```
 
 ## OUTPUT:
-![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/b0ad0ce6-d14c-497b-957a-09183c282129)
+![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/ba8629b6-7e5e-458d-a06e-fb4751515772)
+
+![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/f6cf2dd1-002d-4fa4-b1a0-8989f2264ed5)
+
+![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/151061db-95b0-44cf-b162-5682c4287750)
+
+![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/5b7e86b7-6e34-4236-9c8c-d9f567ea9df2)
 
 
 ## RESULT:
